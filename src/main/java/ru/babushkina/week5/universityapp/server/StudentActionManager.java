@@ -1,6 +1,6 @@
 package ru.babushkina.week5.universityapp.server;
 
-import ru.babushkina.week5.universityapp.models.StudentActions;
+import ru.babushkina.week5.universityapp.model.StudentActions;
 
 public class StudentActionManager {
     StudentActions student;

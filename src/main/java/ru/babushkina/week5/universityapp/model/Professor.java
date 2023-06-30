@@ -1,4 +1,4 @@
-package ru.babushkina.week5.universityapp.models;
+package ru.babushkina.week5.universityapp.model;
 
 public class Professor implements ProfessorActions {
     String name;

@@ -1,6 +1,6 @@
 package ru.babushkina.week5.universityapp.server;
 
-import ru.babushkina.week5.universityapp.models.ProfessorActions;
+import ru.babushkina.week5.universityapp.model.ProfessorActions;
 
 public class ProfessorActionManager {
     ProfessorActions professor;

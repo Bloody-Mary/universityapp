@@ -1,8 +1,8 @@
 package ru.babushkina.week5.universityapp._main;
 
-import ru.babushkina.week5.universityapp.models.Professor;
-import ru.babushkina.week5.universityapp.models.Student;
-import ru.babushkina.week5.universityapp.models.University;
+import ru.babushkina.week5.universityapp.model.Professor;
+import ru.babushkina.week5.universityapp.model.Student;
+import ru.babushkina.week5.universityapp.model.University;
 import ru.babushkina.week5.universityapp.server.ProfessorActionManager;
 import ru.babushkina.week5.universityapp.server.StudentActionManager;
 
